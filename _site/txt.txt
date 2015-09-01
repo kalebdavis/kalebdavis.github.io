@@ -1,8 +1,0 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="/public/css/index.css">
-</head>
-<h1>Kaleb Davis</h1>
-
-<h2>About Me</h2>
-<p><a href="https://github.com/kalebdavis">Github Page</a></p>
-<img href="https://pbs.twimg.com/profile_images/269279233/llama270977_smiling_llama_400x400.jpg"/>
