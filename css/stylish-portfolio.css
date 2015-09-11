@@ -203,10 +203,12 @@ hr.medium {
 
 .callout {
     display: table;
-    width: 100%;
+    width: auto;
     height: 400px;
+    margin-left: auto;
+    margin-right: auto;
     color: #fff;
-    background: url(../img/callout.jpg) no-repeat center center scroll;
+    background: url(../img/rit_tigers.png) no-repeat top center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
