@@ -1,8 +1,30 @@
-# Portfolio
+Agency Jekyll theme
+====================
 
-This is a personal website to show my portfolio of work as well as eventually a blog.
+Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+
+# How to use
+
+###Portfolio 
+
+Portfolio projects are in '/_posts'
+
+Images are in '/img/portfolio'
+
+###About
+
+Images are in '/img/about/'
+
+###Team
+
+Team members and info are in '_config.yml'
+
+Images are in '/img/team/'
 
 
+# Demo
 
-<sub><sup>Template from [Start Bootstrap](http://startbootstrap.com/) - [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)</sub></sup>
-<sub><sup>Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.</sub></sup>
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+
+=========
+For more details, read [documentation](http://jekyllrb.com/)
