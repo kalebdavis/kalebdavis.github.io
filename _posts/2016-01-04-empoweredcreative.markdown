@@ -3,7 +3,7 @@ title: Empowered Creative
 subtitle: Website Development
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2016-01-04
 img: annstorck.png
 thumbnail: annstorck-thumbnail.png
 alt: image-alt

@@ -2,8 +2,8 @@
 title: Sam Martin Photography Portfolio
 subtitle: Website Maintenance
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 3
+date: 2016-01-03
 img: stm-places.png
 thumbnail: stm-thumbnail.png
 alt: image-alt
