@@ -1,0 +1,15 @@
+---
+title: Calenbro
+subtitle: Website Development
+layout: default
+modal-id: 5
+date: 2016-01-05
+img: calenbro.png
+thumbnail: calenbro-thumbnail.png
+alt: image-alt
+project-date: March 2016
+link: http://calenbro.kaleb-davis.com
+category: Web Development
+description: Created this application with two other people during a hackathon called Brickhack held by RIT. This application is intended to be an enhancement to Doodle, where big groups can upload calendars to the site and be able to plan events and see when members are free more easily.
+
+---
